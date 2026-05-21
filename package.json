@@ -1,0 +1,24 @@
+{
+  "name": "sunwin-ultimate-predictor",
+  "version": "1.0.0",
+  "description": "Sunwin Ultimate AI Predictor với 500+ thuật toán dự đoán Tài/Xỉu",
+  "main": "new.js",
+  "scripts": {
+    "start": "node new.js",
+    "dev": "node new.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "node-fetch": "^2.7.0"
+  },
+  "keywords": [
+    "sunwin",
+    "tai xiu",
+    "predictor",
+    "ai",
+    "dice"
+  ],
+  "author": "",
+  "license": "MIT"
+}
